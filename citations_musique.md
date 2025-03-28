@@ -36,6 +36,14 @@ Quand on a l'horizon
 
 
 
+C'est marrant de se dire que toutes les choses inhumaines sont faites par des humains  
+C'est marrant ça  
+*Soleil nuit* – Kyan Khojandi[^Soleil-nuit]
+
+[^Soleil-nuit]: *Soleil nuit* de Kyan Khojandi, à écouter [*ici*](https://youtu.be/C_S5DdR2NOA?si=TeSt88n3mPUqWdUX)
+
+
+
 <!--
 citation  
 *titre* – artiste [^titre]
