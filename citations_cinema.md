@@ -111,6 +111,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Avatar_(film,_
 
 
 <!--------------------------------------------->
+<!------------------- Sept Ans au Tibet ------------------->
+<!--------------------------------------------->
+
+« Si le problème a une solution, il ne sert à rien de s'inquiéter; mais s'il n'a pas de solution, s'inquiéter ne change rien. »  
+*Film : Sept Ans au Tibet* [^Sept-Ans-au-Tibet]
+
+
+[^Sept-Ans-au-Tibet]: *Sept Ans au Tibet* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Sept_Ans_au_Tibet)
+
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
