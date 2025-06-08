@@ -8,6 +8,8 @@
 « Tuer des infidèles n'est pas un meurtre, c'est le chemin qui conduit au ciel. »  
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
+« Soit sans peur face à tes ennemis. Soit brave et droit pour être aimé de Dieu. Dit toujours la vérité, même si cela doit te couter la vie. Sauvegarde les faibles, et garde toi du mal. Tel est ton serment. »  
+*Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 « La sainteté, c'est de faire ce qui est juste *[…]* et, par ce que tu décides de faire, tu te montreras bon, ou non. »  
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
