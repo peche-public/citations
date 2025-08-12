@@ -127,6 +127,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Sept_Ans_au_Ti
 
 
 <!--------------------------------------------->
+<!------------------- Braveheart ------------------->
+<!--------------------------------------------->
+
+« Tous les hommes meurent un jour, mais peu parmi eux vivent vraiment. »  
+*Film : Braveheart* [^Braveheart]
+
+
+
+[^Braveheart]: *Braveheart* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Braveheart)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
