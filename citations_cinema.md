@@ -141,6 +141,22 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Braveheart)
 
 
 <!--------------------------------------------->
+<!----- Pathfinder - Le Sang du guerrier ------>
+<!--------------------------------------------->
+
+– « Dans le cœur de l'homme s'affrontent deux loups. L'un d'eux est l'amour, l'autre la haine. »  
+– « Lequel des deux finit par gagner ? »  
+– « Celui qu'on a le plus nourri. »  
+*Film : Pathfinder - Le Sang du guerrier* [^Pathfinder-Le-Sang-du-guerrier]
+
+
+
+[^Pathfinder-Le-Sang-du-guerrier]: *Pathfinder - Le Sang du guerrier* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Pathfinder_-_Le_Sang_du_guerrier)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
@@ -150,7 +166,7 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Braveheart)
 
 
 – « blablabla »  
-– « blablabla. »  
+– « blablabla »  
 *Film : titre* [^titre]
 
 
@@ -171,7 +187,7 @@ Consulter sa page wikipedia [*ici*](lien.com)
 
 
 – « blablabla »  
-– « blablabla. »  
+– « blablabla »  
 *Série : titre, SxxExx* [^titre]
 
 
