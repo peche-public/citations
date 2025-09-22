@@ -19,8 +19,8 @@
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 
-– « Tu vas à une mort certaine. »  
-– « Toute mort est certaine. »  
+— « Tu vas à une mort certaine. »  
+— « Toute mort est certaine. »  
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 
@@ -37,8 +37,8 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Hea
 <!--------- Le Seigneur des anneaux 1 --------->
 <!--------------------------------------------->
 
-– « Je voudrais que l'anneau ne soit jamais venu à moi. Que rien de tout ceci ne se soit passé. »  
-– « Comme tous ceux qui vivent des heures si sombres, mais ce n'est pas à eux de décider. Tout ce que nous devons décider, c'est que faire du temps qui nous est imparti. »  
+— « Je voudrais que l'anneau ne soit jamais venu à moi. Que rien de tout ceci ne se soit passé. »  
+— « Comme tous ceux qui vivent des heures si sombres, mais ce n'est pas à eux de décider. Tout ce que nous devons décider, c'est que faire du temps qui nous est imparti. »  
 *Film : Le Seigneur des anneaux : La Communauté de l'anneau* [^Seigneur-des-anneaux-1]
 
 
@@ -113,7 +113,7 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Avatar_(film,_
 
 
 <!--------------------------------------------->
-<!------------------- Sept Ans au Tibet ------------------->
+<!------------- Sept Ans au Tibet ------------->
 <!--------------------------------------------->
 
 « Si le problème a une solution, il ne sert à rien de s'inquiéter; mais s'il n'a pas de solution, s'inquiéter ne change rien. »  
@@ -127,7 +127,7 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Sept_Ans_au_Ti
 
 
 <!--------------------------------------------->
-<!------------------- Braveheart ------------------->
+<!---------------- Braveheart ----------------->
 <!--------------------------------------------->
 
 « Tous les hommes meurent un jour, mais peu parmi eux vivent vraiment. »  
@@ -144,9 +144,9 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Braveheart)
 <!----- Pathfinder - Le Sang du guerrier ------>
 <!--------------------------------------------->
 
-– « Dans le cœur de l'homme s'affrontent deux loups. L'un d'eux est l'amour, l'autre la haine. »  
-– « Lequel des deux finit par gagner ? »  
-– « Celui qu'on a le plus nourri. »  
+— « Dans le cœur de l'homme s'affrontent deux loups. L'un d'eux est l'amour, l'autre la haine. »  
+— « Lequel des deux finit par gagner ? »  
+— « Celui qu'on a le plus nourri. »  
 *Film : Pathfinder - Le Sang du guerrier* [^Pathfinder-Le-Sang-du-guerrier]
 
 
@@ -165,8 +165,8 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Pathfinder_-_L
 *Film : titre* [^titre]
 
 
-– « blablabla »  
-– « blablabla »  
+— « blablabla »  
+— « blablabla »  
 *Film : titre* [^titre]
 
 
@@ -186,8 +186,8 @@ Consulter sa page wikipedia [*ici*](lien.com)
 *Série : titre, SxxExx* [^titre]
 
 
-– « blablabla »  
-– « blablabla »  
+— « blablabla »  
+— « blablabla »  
 *Série : titre, SxxExx* [^titre]
 
 
