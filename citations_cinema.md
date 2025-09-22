@@ -157,6 +157,32 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Pathfinder_-_L
 
 
 <!--------------------------------------------->
+<!------------- Mange, prie, aime ------------->
+<!--------------------------------------------->
+
+— « Je t'aimais Stephen. »  
+— « Je sais, mais moi je t'aime toujours. »  
+— « Alors aime-moi. »  
+— « Mais tu m'manques. »  
+— « Si je te manque, envoie-moi de l'amour et de la lumière chaque fois que tu penses à moi, et tourne la page. »  
+*Film : Mange, prie, aime* [^mange-prie-aime]
+
+
+« Dieu réside en toi en tant que toi. »  
+*Film : Mange, prie, aime* [^mange-prie-aime]
+
+
+« Quelquefois perdre son équilibre pour l'amour c'est élément pour vivre vie équilibrée. »  
+*Film : Mange, prie, aime* [^mange-prie-aime]
+
+
+
+[^mange-prie-aime]: *Mange, prie, aime* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Mange,_prie,_aime)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
