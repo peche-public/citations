@@ -44,6 +44,13 @@ C'est marrant ça
 
 
 
+Le monde, c'est c'que t'en fais  
+*Yoroï (ft. Thomas Bangalter)* – Orelsan [^Yoroï]
+
+[^Yoroï]: *Yoroï (ft. Thomas Bangalter)* de Orelsan, à écouter [*ici*](https://youtu.be/oo_xq5-9w18?si=Vj1yamhVZW3UvvM0)
+
+
+
 <!--
 citation  
 *titre* – artiste [^titre]
