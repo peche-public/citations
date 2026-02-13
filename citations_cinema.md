@@ -183,6 +183,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Mange,_prie,_a
 
 
 <!--------------------------------------------->
+<!-------------- Never Let Me Go -------------->
+<!--------------------------------------------->
+
+« C’que j’me demande, c’est si notre vie a été tellement différente de la vie des personnes que nous sauvons. Nous terminons tous. Peut-être qu’aucun d’entre nous ne comprend réellement ce qu’il a vécu et que personne n’a le sentiment d’avoir eu assez de temps. »  
+*Film : Never Let Me Go* [^never-let-me-go]
+
+
+
+[^never-let-me-go]: *Never Let Me Go* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Auprès_de_moi_toujours_(film))
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
