@@ -197,6 +197,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Auprès_de_moi
 
 
 <!--------------------------------------------->
+<!---------------- Remember Me ---------------->
+<!--------------------------------------------->
+
+« Quoi que vous fassiez dans la vie, ça sera insignifiant. Mais il est très important que vous le fassiez, parce que personne d'autre ne le fera. »  
+*Film : Remember Me* [^Remember-Me]
+
+
+
+[^Remember-Me]: *Remember Me* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Remember_Me_(film,_2010))
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
