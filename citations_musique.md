@@ -51,6 +51,13 @@ Le monde, c'est c'que t'en fais
 
 
 
+J'ai couru après l'bonheur sans prendre le temps d'savoir c'que c'estcitation  
+*Civilisation* – Orelsan [^Civilisation]
+
+[^Civilisation]: *Civilisation* de Orelsan, à écouter [*ici*](https://youtu.be/q-2VXLkAVI4?si=oNpSMkOFBlGUqFeM)
+
+
+
 <!--
 citation  
 *titre* – artiste [^titre]
