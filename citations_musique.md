@@ -58,6 +58,18 @@ J'ai couru après l'bonheur sans prendre le temps d'savoir c'que c'estcitation
 
 
 
+Il en faut peu pour être heureux  
+Vraiment très peu pour être heureux  
+Chassez de votre esprit tous vos soucis  
+Prenez la vie du bon côté  
+Riez, sautez, dansez, chantez  
+Et vous serez un ours très bien léché !  
+*Il En Faut Peu Pour Être Heureux* – Le Livre de la Jungle [^Il-En-Faut-Peu-Pour-Être-Heureux]
+
+[^Il-En-Faut-Peu-Pour-Être-Heureux]: *Il En Faut Peu Pour Être Heureux* du Livre de la Jungle, à écouter [*ici*](https://youtu.be/lPfGg7p0WkQ?si=BfpxCM1fo8lQvUVw)
+
+
+
 <!--
 citation  
 *titre* – artiste [^titre]
