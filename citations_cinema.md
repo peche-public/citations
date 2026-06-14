@@ -211,6 +211,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Remember_Me_(f
 
 
 <!--------------------------------------------->
+<!------------ American History X ------------->
+<!--------------------------------------------->
+
+« Est-ce que ce que tu as fais t'as donné une vie meilleure? »  
+*Film : American History X* [^American-History-X]
+
+
+
+[^American-History-X]: *American History X* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/American_History_X)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
