@@ -225,6 +225,21 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/American_Histo
 
 
 <!--------------------------------------------->
+<!---------- Sur la route de Madison ---------->
+<!--------------------------------------------->
+
+— « Les choses changent. »  
+— « C'est toujours comme ça. Une des loie de la nature. Beaucoup de gens ont peur du changement, mais si on l'envisage comme quelque chose sur quoi on peut toujours compter, alors ça peut être une satisfaction. Y a peu de choses sur les quelles on peut compter. »  
+*Film : Sur la route de Madison* [^Sur-la-route-de-Madison]
+
+
+
+[^Sur-la-route-de-Madison]: *Sur la route de Madison* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Sur_la_route_de_Madison)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
