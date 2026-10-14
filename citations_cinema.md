@@ -240,6 +240,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Sur_la_route_d
 
 
 <!--------------------------------------------->
+<!------------- Gangs of New York ------------->
+<!--------------------------------------------->
+
+« En apparence il est impératif de respecter la loi. Et plus encore quand on la viole. »  
+*Film : Gangs of New York* [^Gangs-of-New-York]
+
+
+
+[^Gangs-of-New-York]: *Gangs of New York* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Gangs_of_New_York)
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
